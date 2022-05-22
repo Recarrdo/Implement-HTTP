@@ -14,7 +14,7 @@ char webpage[] =
 "HTTP/1.1 200 OK\r\n"
 "Contect-Type: text/html; charset=UTF-8\r\n\r\n"
 "<!DOCTYPE html>\r\n"
-"<html><head><title>ShellWaveX</title>\r\n"
+"<html><head><title>P4C 4th HW</title>\r\n"
 "<style>body { background-color: #FFF00 }</style><head>\r\n"
 "<body><center><h1>Hello! This is P4C HW! I'm recarrdo</h1><br>\r\n</center></body></html>";
 
