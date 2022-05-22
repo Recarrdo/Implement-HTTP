@@ -16,7 +16,7 @@ char webpage[] =
 "<!DOCTYPE html>\r\n"
 "<html><head><title>ShellWaveX</title>\r\n"
 "<style>body { background-color: #FFF00 }</style><head>\r\n"
-"<body><center><h1>Hello world!</h1><br>\r\n</center></body></html>";
+"<body><center><h1>Hello! This is P4C HW! I'm recarrdo</h1><br>\r\n</center></body></html>";
 
 
 int main(int argc, char* argv[])
